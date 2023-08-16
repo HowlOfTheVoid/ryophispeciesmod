@@ -4,18 +4,54 @@
 		"path": "/beacon/ryophi",
 		"value": {
 			"default": [
-				"You called?",
-				"Is there something you need?",
-				"You wanna talk?",
-				"Hi What's up?",
-				"You want something?"
+				"What was the ssssurface like?",
+				"What were the cavessss like?",
+				"Can I go with you ssssometime?",
+				"Find anything good lately?",
+				"Ssssorry if I sound pushy for sssstoriesss-",
+				"How are you?",
+				"Can you tell me about your culture again?",
+				"What wassss that tune again...? Dododo Doo... Dododo do do..."
+			],
+			"floran": [
+				"Ryophi isss sssorry if thiss is offenssive-",
+				"How wasss your hunt? Wass there any pretty beasstsss out there?",
+				"What beautiful flowerssss! Where did you get-- Oh, wait...",
+				"Can Ryophi come with you on a hunt ssssometime?",
+				"Can I come with you on a hunt ssssometime?"
+			],
+			"glitch": [
+				"Oh! Uh- 'Interesssted': What issss your culture like?",
+				"'Intrigued': Did you ssssee anything good?",
+				"'Bashful': I know it'ssss redundant when I have my own tone, but it feels ressspectful.",
+				"'Desperate': Could I travel with you sssometime?",
+				"'Hopeful': Will you tell me how you manage to build thosssse huge cassstlessss?"
+			],
+			"avian": [
+				"Oh, wow! A feathered one- How cool-!",
+				"Ssso... Can you explain your faith again?",
+				"Have you ever been to one of your kind's templessss? Ssso quiet...",
+				"Ssso... Kluex, huh?"
+			],
+			"apex": [
+				"And where do you come from? Are you a rebel or... not?",
+				"Wait.... Am I being recorded? Isss thisss converssation on a feed?",
+				"Can I have a copy of the recording of thisss conversssation to lisssten back to?",
+				"... Issss Big Ape lissstening now?"
+			],
+			"hyolotl": [
+				"You have a library around here right? Do you? Can I see it?",
+				"I wish I could swim down to your citiesss and ssseee it for mysssself...",
+				"Ssssso, do you do a lot of reading?",
+				"Thosssse great librariessss must be amazing to sssee for yourssself..."
 			],
 			"ryophi": [
-				"You called?",
-				"Is there something you need?",
-				"You wanna talk?",
-				"Hi What's up?",
-				"You want something?"
+				"What did you sssssee? What was it like?",
+				"You've GOTTA share ssssomething cool with me ssssometime!",
+				"Wassss there anything pretty?",
+				"I wassss wondering when I was gonna sssee another ssssnake-face again!",
+				"How are you?",
+				"I ssssee that wonder for new thingsss in your eyessss- What happened?"
 			]
 		}
 	},
@@ -24,12 +60,13 @@
 		"path": "/rent/ryophi",
 		"value": {
 			"default": [
-				"I thought you might like this",
-				"Here's a gift, for all your help.",
-				"I got this for you. You can take it, or not. It's up to you.",
-				"Here's something for your troubles",
-				"Hey",
-				"Here's a little thank you gift for you."
+				"I found something pretty interesting! Here, for you-",
+				"This home is amazing- Here, have something to show my appreciation!",
+				"Here- Something cool, for a cool house.",
+				"Here. Take it!",
+				"Hey- Have this.",
+				"Here's a little gift! I hope you like it.",
+				"Do you know what this is? I don't- So here. Have it. You'll make more use of it."
 			]
 		}
 	}

@@ -1,20 +1,29 @@
 [
 	{
 		"op": "add",
+		"path": "/reattack/ryophi",
+		"value": {
+			"default": [
+				"Haven't learned, have you? Well, I have.",
+				"Another round? You're ressssilient.",
+				"Ssssomeone wants to learn how clossse they can get to death again.",
+				"I told you we'd meet again. You've come crawling back, eh?"
+			]
+		}
+	},
+	{
+		"op": "add",
 		"path": "/attack/ryophi",
 		"value": {
 			"default": [
-				"You're dead meat",
-				"Let's get this over with",
-				"You don't have a snowflakes chance on a magma planet",
-				"I'm not much of a fighter...",
-				"Uh-oh...",
-				"I don't go down so easy",
-				"How do I keep ending up in situations like this?",
-				"Let's get this over with...",
-				"Be warned, I put up a fight",
-				"Let's do this",
-				"You won't know what hit you"
+				"Check thissss out!",
+				"Let'sss sssee how well you fight!",
+				"Freeze!",
+				"Die, ssssucker!",
+				"I've ssstudied your kind'sss fighting sstyle!",
+				"Show me your movessss!",
+				"Thisss'll be eassy!",
+				"Show me something new and I might let you live."
 			]
 		}
 	},
@@ -23,18 +32,18 @@
 		"path": "/killedTarget/ryophi",
 		"value": {
 			"default": [
-				"Never mess with me",
-				"Victory",
+				"Now let'sss see what they had on them...",
+				"Sssssucker.",
 				"Phew",
 				"Another victory",
-				"I didn't even break a sweat",
+				"Nothing new.",
 				"Heh.",
-				"Of course I won",
-				"I'm pretty good at this",
-				"That was stressful...",
+				"They all fall the ssssame...",
+				"I'm pretty good at thissss",
+				"That was sssstressful...",
 				"Another easy win",
-				"Yes",
-				"That's what you get"
+				"Yessss...",
+				"That'ssss what you get!"
 			]
 		}
 	},
@@ -43,12 +52,25 @@
 		"path": "/lostTarget/ryophi",
 		"value": {
 			"default": [
-				"I will get you one day",
-				"It's not over",
-				"Don't come back",
+				"We'll ssssee eachother again.",
+				"Thisss isn't the lasst you'll sssee of me!",
+				"And sssstay back!",
 				"Where are you...",
-				"What a hassle.",
-				"Just you wait"
+				"What a hasssssle.",
+				"Jussssst you wait"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/outOfSight/ryophi",
+		"value": {
+			"default": [
+				"I'll learn from thissss....",
+				"Thisss is unacceptable.",
+				"Ssssneaky. Sssurprising. Ssssoon...",
+				"Dissssappearing, huh? I'll find you ssssooner or later...",
+				"... Even assss you run, I'm ssstill learning."
 			]
 		}
 	}
