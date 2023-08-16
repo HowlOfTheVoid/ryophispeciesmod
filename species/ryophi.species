@@ -74,8 +74,8 @@
       { "item": "ryophishipdoor" },
       { "item": "ryophishiphatch" },
       // Spinning Wheel
-      { "item": "ryophioutfit1chest" },
-      { "item": "ryophioutfit1legs" },
+      { "item": "ryophiprotectorateshirt" },
+      { "item": "ryophistailsleeve" },
       { "item": "ryophioutfit2chest" },
       { "item": "ryophioutfit2legs" },
       { "item": "ryophioutfit3chest" },
