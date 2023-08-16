@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/ryophi",
+		"value" : {
+			"aiFrames" : "ryophiAI.png",
+			"portraitFrames" : "portraits/ryophiportrait.png",
+			"staticFrames" : "staticryophi.png"	
+		}
+	}
+]

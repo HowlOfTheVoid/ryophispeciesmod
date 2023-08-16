@@ -1,0 +1,8 @@
+{
+  "name" : "mint",
+  "category" : "ryophipet",
+  "type" : "body",
+  "frames" : {
+    "body" : "mint.png"
+  }
+}

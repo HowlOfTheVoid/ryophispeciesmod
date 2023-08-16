@@ -1,0 +1,46 @@
+{
+  "objectName" : "flagryophi",
+  "colonyTags" : ["ryophi"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+  
+  "description" : "The flag of the Protectorate. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "ryophi Flag",
+  "race" : "ryophi",
+  "apexDescription" : "A ryophi flag. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This ryophi flag can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "ryophi flag makess good point to teleport back to ussing teleporter",
+  "glitchDescription" : "Observant. A small locator module attached to this ryophi flag allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This ryophi flag can be saved as a location for my teleporter. Then I can return to it at any time.",
+  "hylotlDescription" : "This ryophi flag can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this ryophi flag for quick teleportin'.",
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+  "inventoryIcon" : "flagryophiicon.png",
+  "orientations" : [
+    {
+      "image" : "flagryophi.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flagryophi.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}

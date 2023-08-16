@@ -1,0 +1,29 @@
+{
+  "objectName" : "ryophibannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A small ryophi wallbanner from a ryophi academy.",
+  "shortdescription" : "Small ryophi Wall Banner",
+  "race" : "ryophi",
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small ryophi banner...",
+  "humanDescription" : "The ryophi banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "ryophiDescription" : "I am so happy to see the ryophi culture thrive",  
+  "inventoryIcon" : "ryophibannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "ryophibannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

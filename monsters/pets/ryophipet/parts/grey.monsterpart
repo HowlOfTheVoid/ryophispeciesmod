@@ -1,0 +1,8 @@
+{
+  "name" : "grey",
+  "category" : "ryophipet",
+  "type" : "body",
+  "frames" : {
+    "body" : "grey.png"
+  }
+}

@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/ryophi",
+		"value" : [
+		    "/ships/ryophi/ryophit0.structure",
+			"/ships/ryophi/ryophit1.structure",
+			"/ships/ryophi/ryophit2.structure",
+			"/ships/ryophi/ryophit3.structure",
+			"/ships/ryophi/ryophit4.structure",
+			"/ships/ryophi/ryophit5.structure",
+			"/ships/ryophi/ryophit6.structure",
+			"/ships/ryophi/ryophit7.structure",
+			"/ships/ryophi/ryophit8.structure"
+		]
+	}
+]
