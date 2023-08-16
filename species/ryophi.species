@@ -22,47 +22,16 @@
       { "item": "flagryophi" },
 
       // Anvil
-      { "item": "ryophitier1head" },
-      { "item": "ryophitier1chest" },
-      { "item": "ryophitier1pants" },
-      { "item": "ryophitier2head" },
-      { "item": "ryophitier2chest" },
-      { "item": "ryophitier2pants" },
-      { "item": "ryophisword" },
       { "item": "ironshortsword" },
       { "item": "ironbroadsword" },
       { "item": "tungstenaxe" },
       { "item": "tungstenhammer" },
       // Anvil2
-      { "item": "ryophitier3head" },
-      { "item": "ryophitier3chest" },
-      { "item": "ryophitier3pants" },
-      { "item": "ryophitier4head" },
-      { "item": "ryophitier4chest" },
-      { "item": "ryophitier4pants" },
       { "item": "titaniumdagger" },
       { "item": "titaniumspear" },
       { "item": "durasteelbroadsword" },
       { "item": "durasteelshortsword" },
       // Anvil3
-      { "item": "ryophitier5ahead" },
-      { "item": "ryophitier5achest" },
-      { "item": "ryophitier5apants" },
-      { "item": "ryophitier6ahead" },
-      { "item": "ryophitier6achest" },
-      { "item": "ryophitier6apants" },
-      { "item": "ryophitier5mhead" },
-      { "item": "ryophitier5mchest" },
-      { "item": "ryophitier5mpants" },
-      { "item": "ryophitier6mhead" },
-      { "item": "ryophitier6mchest" },
-      { "item": "ryophitier6mpants" },
-      { "item": "ryophitier5shead" },
-      { "item": "ryophitier5schest" },
-      { "item": "ryophitier5spants" },
-      { "item": "ryophitier6shead" },
-      { "item": "ryophitier6schest" },
-      { "item": "ryophitier6spants" },
       { "item": "aegisaltpistol" },
       { "item": "aegisaltbow" },
       { "item": "feroziumwand" },
@@ -76,12 +45,6 @@
       // Spinning Wheel
       { "item": "ryophiprotectorateshirt" },
       { "item": "ryophistailsleeve" },
-      { "item": "ryophioutfit2chest" },
-      { "item": "ryophioutfit2legs" },
-      { "item": "ryophioutfit3chest" },
-      { "item": "ryophioutfit3legs" },
-      { "item": "ryophioutfit4chest" },
-      { "item": "ryophioutfit4legs" },
       // Special
       { "item": "ryophimerchant" }
 
@@ -97,8 +60,8 @@
       "image": "/interface/title/ryophimaleico.png",
       "characterImage": "/interface/title/ryophimale.png",
       "hair": [ "0", "1" ],
-      "shirt": [ "ryophiprotectorateshirt", "ryophioutfit2chest", "ryophioutfit3chest", "ryophioutfit4chest" ],
-      "pants": [ "ryophistailsleeve", "ryophioutfit2legs", "ryophioutfit3legs", "ryophioutfit4legs" ],
+      "shirt": [ "ryophiprotectorateshirt" ],
+      "pants": [ "ryophistailsleeve" ],
       "facialHairGroup": "",
       "facialHair": [],
       "facialMaskGroup": "",
@@ -109,8 +72,8 @@
       "image": "/interface/title/ryophifemico.png",
       "characterImage": "/interface/title/ryophifemale.png",
       "hair": [ "0", "1" ],
-      "shirt": [ "ryophiprotectorateshirt", "ryophioutfit2chest", "ryophioutfit3chest", "ryophioutfit4chest" ],
-      "pants": [ "ryophistailsleeve", "ryophioutfit2legs", "ryophioutfit3legs", "ryophioutfit4legs" ],
+      "shirt": [ "ryophiprotectorateshirt" ],
+      "pants": [ "ryophistailsleeve" ],
       "facialHairGroup": "",
       "facialHair": [],
       "facialMaskGroup": "",
@@ -119,28 +82,32 @@
   ],
   "bodyColor": [
     {
-      "ffe2c5": "ab8c77",
-      "ffc181": "86644a",
-      "d39c6c": "684431",
-      "c7815b": "40271d"
+      //RED
+      "ffe2c5": "ff6969", //Lightest, Highlights +27S
+      "ffc181": "c73030", //Neutral, Most Present
+      "d39c6c": "992828", //Second-Darkest, Outlines -1S, -18V
+      "c7815b": "611010" //Darkest, Shaded outlines and details +5S, -22V
     },
     {
-      "ffe2c5": "c5ad98",
-      "ffc181": "a47a59",
-      "d39c6c": "865d40",
-      "c7815b": "66412e"
+      //DARK BLUE
+      "ffe2c5": "a89fcc",
+      "ffc181": "615980",
+      "d39c6c": "3f3b52",
+      "c7815b": "110a2e"
     },
     {
-      "ffe2c5": "e1b98d",
-      "ffc181": "c88959",
-      "d39c6c": "9e6a4d",
-      "c7815b": "784930"
+      //MINT
+      "ffe2c5": "8bf7ca",
+      "ffc181": "53ad88",
+      "d39c6c": "1d9161",
+      "c7815b": "076e43"
     },
     {
-      "ffe2c5": "c9b181",
-      "ffc181": "ac8348",
-      "d39c6c": "87633f",
-      "c7815b": "694c31"
+      //RUSTY RED
+      "ffe2c5": "dba493",
+      "ffc181": "be471b",
+      "d39c6c": "9B2F0C",
+      "c7815b": "702710"
     },
     {
       "ffe2c5": "e8cebc",
