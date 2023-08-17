@@ -1,0 +1,9 @@
+{
+  "name" : "ryophicoldbreath",
+  "defaultDuration" : 5,
+  "effectConfig": {},
+
+  "scripts": [],
+
+  "animationsConfig" : "ryophicoldbreath.animation"
+}

@@ -1,0 +1,20 @@
+{
+  "lights" : {
+    "glow": {
+      "active": true,
+      "position": [ 0, 0 ],
+      "color": [ 75, 75, 75 ],
+      "pointLight" : true
+    }
+  },
+  "particleEmitters": {
+    "coldBreath1": {
+      "active": true,
+      "emissionRate": 20,
+      "offsetRegion": [ -3.0, -3.0, 3.0, 3.0 ],
+      "particles": [
+        { "particle": "coldbreath" }
+      ]
+    }
+  }
+}

@@ -9,6 +9,8 @@
   },
 
 
+  "statusEffects": [ "ryophicoldbreath" ],
+
   "humanoidConfig": "/species/ryophi.config",
   "nameGen": [ "/species/ryophimalenamegen.config:names", "/species/ryophifemalenamegen.config:names" ],
   "ouchNoises": [ "/sfx/humanoid/ryophihurt_male1.ogg", "/sfx/humanoid/ryophihurt_female1.ogg" ],
