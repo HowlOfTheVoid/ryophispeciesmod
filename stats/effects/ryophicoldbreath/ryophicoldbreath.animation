@@ -5,8 +5,7 @@
       "emissionRate": 1,
       "offsetRegion": [ -2.5, -2.0, 2.5, 1.5 ],
       "particles": [
-        { "particle": "icebreath1" },
-        { "particle": "iceswoosh3" }
+        { "particle": "icebreath1" }
       ]
     }
   }
