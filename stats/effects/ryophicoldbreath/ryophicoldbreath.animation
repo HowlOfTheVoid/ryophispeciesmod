@@ -1,19 +1,12 @@
 {
-  "lights" : {
-    "glow": {
-      "active": true,
-      "position": [ 0, 0 ],
-      "color": [ 75, 75, 75 ],
-      "pointLight" : true
-    }
-  },
   "particleEmitters": {
-    "coldBreath1": {
+    "iceAura": {
       "active": true,
-      "emissionRate": 20,
-      "offsetRegion": [ -3.0, -3.0, 3.0, 3.0 ],
+      "emissionRate": 1,
+      "offsetRegion": [ -2.5, -2.0, 2.5, 1.5 ],
       "particles": [
-        { "particle": "coldbreath" }
+        { "particle": "icebreath1" },
+        { "particle": "iceswoosh3" }
       ]
     }
   }
