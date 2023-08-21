@@ -1,8 +1,0 @@
-{
-  "name" : "fullgrey",
-  "category" : "ryophipet",
-  "type" : "body",
-  "frames" : {
-    "body" : "fullgrey.png"
-  }
-}

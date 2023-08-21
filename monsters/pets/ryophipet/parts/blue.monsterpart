@@ -1,8 +1,0 @@
-{
-  "name" : "blue",
-  "category" : "ryophipet",
-  "type" : "body",
-  "frames" : {
-    "body" : "blue.png"
-  }
-}
