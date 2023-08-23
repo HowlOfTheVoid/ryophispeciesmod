@@ -14,7 +14,8 @@
   "glitchDescription" : "Disappointed. A door. It appears to be disabled currently.",
   "humanDescription" : "Cool door. Too bad it isn't opening right now.",
   "hylotlDescription" : "A basic ship door. It won't open at the moment.",
-  "novakidDescription" : "The door is broken, it ain't opening any time soon.",
+  "novakidDescription": "The door is broken, it ain't opening any time soon.",
+  "ryophiDescription": "Well, some other door might be open, but this one isn't.",
   "inventoryIcon" : "ryophishipdoorBrokenicon.png",
   "orientations" : [
     {

@@ -13,7 +13,8 @@
   "glitchDescription" : "Proud. A ship door.",
   "humanDescription" : "Cool door.",
   "hylotlDescription" : "A basic spaceship door.",
-  "novakidDescription" : "A door.",
+  "novakidDescription": "A door.",
+  "ryophiDescription": "A spaceship door!",
   "inventoryIcon" : "ryophishipdooricon.png",
   "orientations" : [
     {

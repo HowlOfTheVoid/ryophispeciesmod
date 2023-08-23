@@ -16,7 +16,8 @@
   "glitchDescription" : "Excited. Any items of interest inside I wonder?",
   "humanDescription" : "A ship's locker.",
   "hylotlDescription" : "Perhaps something useful is inside this locker.",
-  "novakidDescription" : "A locker, for puttin' things in.",
+  "novakidDescription": "A locker, for puttin' things in.",
+  "ryophiDescription": "I wonder how much I could fit in this?",
   "inventoryIcon" : "shiplockericon.png",
   "orientations" : [
     {
