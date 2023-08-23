@@ -5,16 +5,16 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "A standard issue Apex commander jacket.",
-  "shortdescription" : "Commander Jacket",
+  "description" : "A jacket with the front open. Breezy!",
+  "shortdescription" : "Short-Sleeve Leather Jacket",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chestm.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "femaleFrames" : {
-    "body" : "chestf.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
