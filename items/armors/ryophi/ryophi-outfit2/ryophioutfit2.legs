@@ -5,11 +5,11 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legwear",
-  "description" : "Standard issue Apex commander trousers.",
-  "shortdescription" : "Commander Trousers",
+  "description" : "A ribbon to decorate your tail with.",
+  "shortdescription" : "Tail Ribbon",
   "tooltipKind" : "armor",
-  "maleFrames" : "pants.png",
-  "femaleFrames" : "pants.png",
+  "maleFrames" : "pantsm.png",
+  "femaleFrames" : "pantsf.png",
   "colorOptions" : [
     // RED
     { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
