@@ -2,16 +2,6 @@
 	{
 		"op": "add",
 		"path": "/greeting/ryophi",
-		"value": {}
-	},
-	{
-		"op": "add",
-		"path": "/converse/ryophi",
-		"value": {}
-	},
-	{
-		"op": "add",
-		"path": "/greeting/ryophi",
 		"value": {
 			"default": [
 				"Hello",
