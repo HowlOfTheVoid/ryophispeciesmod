@@ -1,5 +1,5 @@
 {
-  "itemName" : "ryophioutfit2legs",
+  "itemName" : "ryophitailribbon",
   "price" : 35,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
@@ -9,7 +9,7 @@
   "shortdescription" : "Tail Ribbon",
   "tooltipKind" : "armor",
   "maleFrames" : "pantsm.png",
-  "femaleFrames" : "pantsf.png",
+  "femaleFrames" : "pantsm.png",
   "colorOptions" : [
     // RED
     { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
