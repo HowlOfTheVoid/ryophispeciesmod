@@ -14,7 +14,7 @@
   "humanoidConfig": "/species/ryophi.config",
   "nameGen": [ "/species/ryophimalenamegen.config:names", "/species/ryophifemalenamegen.config:names" ],
   "ouchNoises": [ "/sfx/humanoid/ryophihurt_male1.ogg", "/sfx/humanoid/ryophihurt_female1.ogg" ],
-  "charGenTextLabels": [ "Scale colour", "Ears", "Shirt", "Tailwear", "Waistcloth", "Ear colour", "Shirt colour", "Tailwear colour", "RYOPHI", "Personality" ],
+  "charGenTextLabels": [ "Scale colour", "Head", "Shirt", "Tailwear", "Waistcloth", "Ear colour", "Shirt colour", "Tailwear colour", "RYOPHI", "Personality" ],
   "skull": "/humanoid/ryophi/dead.png",
   "effectDirectives": "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints": {
