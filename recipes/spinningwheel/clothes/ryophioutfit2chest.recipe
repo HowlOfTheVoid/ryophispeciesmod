@@ -2,6 +2,6 @@
   "input" : [
     { "item" : "fabric", "count" : 20 }
   ],
-  "output" : { "item" : "ryophioutfit2chest", "count" : 1 },
+  "output" : { "item" : "ryophissjacket", "count" : 1 },
   "groups" : [ "craftingwheel", "clothes" ]
 }
