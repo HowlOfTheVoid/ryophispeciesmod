@@ -28,6 +28,9 @@
       { "item": "ironbroadsword" },
       { "item": "tungstenaxe" },
       { "item": "tungstenhammer" },
+      { "item": "ryophitier1head" },
+      { "item": "ryophitier1chest" },
+      { "item": "ryophitier1pants" },
       // Anvil2
       { "item": "titaniumdagger" },
       { "item": "titaniumspear" },
