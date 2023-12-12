@@ -1,10 +1,22 @@
 {
 	"id" : "ryophidiary",
-	"title" : "Survivors Log",
-	"description" : "The diary of a lost soul.",
+	"title" : "A Cultural Recount",
+	"description" : "A collection of cultures a Ryophi encountered. There are lots of pictures, but not all of it is accurate...",
 	"icon" : "ryophicover.png",
 	"contentPages" : [
-    "Lore here."
+"In my travels, I've come across a lot of different cultures, and variants on those cultures. I'm writing this to document those encounters and provide more information to those seeking it, on the small cultural differences between species.
+
+It is my hope that, with these examples and the extensive information provided, that we as species can learn to grow from one another in this vast universe.",
+"HUMANS:
+
+Humans, like Ryophi, seem to be a strong cultural melting pot of people; However, it is notable that, unlike Ryophi, Humans have come to more embrace their differences as a source of honor and dignity.
+
+In fact, you can often count on humans to find and seek out differences in others- Some are even known to incite controversy for the sake of it.
+
+Sometimes this is for the sake of healthy debate- After all, social systems as diverse as the galaxy's can't flourish without engaging with others- But in cases such as the Occassus Cult, it can escalate into violence and hostility.
+
+Humans' sense of growing in diverse environments is made no less significant by their founding of the Terran Protectorate, that welcomes in all kinds of species from across the galaxy.",
+""
 	],
 		"itemConfig" : {
 		"rarity" : "common",
