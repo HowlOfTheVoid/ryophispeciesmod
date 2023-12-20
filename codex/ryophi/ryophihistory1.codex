@@ -1,0 +1,26 @@
+{
+	"id" : "ryophihistory1",
+	"title" : "Gender, Appearance and the Ryophi",
+	"description" : "An entry in a history book about Ryophi's biology and gender.",
+	"icon" : "ryophicover.png",
+	"contentPages" : [
+"Gender Identity was developed early by Ryophi society - And grew more complicated as our society grew. Our culture quickly accepted that gender was a very fluid concept, and that every identity was its own.
+
+As a matter of fact, Ryophi pronouns are too numerous to count.
+
+Common courtesy in regarding other Ryophi in our culture is to refer to one another by 'They/Them,' until acquaintances are friendly enough with one another to elaborate on...", 
+"... their identity.
+
+This discernable difference between Ryophi and other species is the lack of any significant, observable differences between Ryophi of different sexes.
+
+Although early evolutionary Ryophi would be able to tell male from female by tail tapering and other minor differences, as Ryophi evolved into higher thinking and sentience, these trait differences became blurred.",
+
+"A female might have the thick tail of a male by virtue of being fit, and a male might have the skinnier tail of a female by virtue of just being skinny.
+
+With those differences no longer providing the information they did to our progenitors, it became irrelevant. And from there, gender identity blossomed into something far more diverse than the normal, binary system."
+],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
