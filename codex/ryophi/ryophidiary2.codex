@@ -1,0 +1,17 @@
+{
+	"id" : "ryophidiary2",
+	"title" : "Size Accommodations",
+	"description" : "A torn out page in a Ryophi's journal. This one's pretty old...",
+	"icon" : "ryophicover.png",
+	"contentPages" : [
+"I don't think people really understand me when I say that being a serpentine creature doesn't make me more maneuverable.
+
+Yes, I'm more flexible- But for squeezing through complex tunnels, not for squeezing through doorways and fitting inside elevators!
+
+It's still awkward to have to sit there and apologize to people about my tail being in the way... I wish they'd stop treating it like an advantage."
+],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

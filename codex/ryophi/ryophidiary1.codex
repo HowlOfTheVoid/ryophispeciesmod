@@ -1,0 +1,19 @@
+{
+	"id" : "ryophidiary1",
+	"title" : "Freezing Vents",
+	"description" : "A torn out page in a Ryophi's journal. This one looks like the ink in it froze to the page a bit early.",
+	"icon" : "ryophicover.png",
+	"contentPages" : [
+"It's too wet here. I should have gotten the dehumidifier nanos--
+
+I feel stiff. My body's cold is freezing the water in my breath vents.
+
+It's suffocating, and it feels like my whole body's turning to ice and stone.
+
+I'm going to rest here for a bit. I hope that the warmth will melt the ice, and I can shake it off before it gets worse."
+],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
