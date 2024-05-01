@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "ryophiwoodendesk",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "storage", "ryophi" ]
+}

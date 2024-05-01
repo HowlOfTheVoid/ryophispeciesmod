@@ -31,6 +31,9 @@
       { "item": "ryophitier1head" },
       { "item": "ryophitier1chest" },
       { "item": "ryophitier1pants" },
+      { "item": "ryophitier2head" },
+      { "item": "ryophitier2chest" },
+      { "item": "ryophitier2pants" },
       // Anvil2
       { "item": "titaniumdagger" },
       { "item": "titaniumspear" },
@@ -43,13 +46,22 @@
       { "item": "feroziumstaff" },
       { "item": "violiumshortsword" },
       { "item": "violiumbroadsword" },
+      // Furniture Table 1
+      { "item": "ryophiwoodchair" },
+      { "item": "ryophiwoodenbed" },
+      { "item": "ryophiwoodendesk" },
+      { "item": "ryophiwooddoor" },
+      { "item": "ryophitwinglaives" },
       // Furniture Table 2
+      { "item": "enlightenedcarcass" },
       { "item": "ryophistoragelocker" },
       { "item": "ryophishipdoor" },
       { "item": "ryophishiphatch" },
       // Spinning Wheel
       { "item": "ryophiprotectorateshirt" },
       { "item": "ryophistailsleeve" },
+      { "item": "ryophitailribbon" },
+      { "item": "ryophissjacket" },
       // Special
       { "item": "ryophimerchant" }
 

@@ -1,0 +1,32 @@
+{
+  "objectName": "ryophitwinglaives",
+  "colonyTags": [ "ryophi" ],
+  "rarity": "Common",
+  "description": "A pair of glaives, meant to be displayed. They don't look made for combat.",
+  "shortdescription": "Twin Glaives Coat of Arms",
+  "race": "ryophi",
+  "category": "decorative",
+  "price": 75,
+
+  "apexDescription": "Hm. Two polearms seems inefficient for battle.",
+  "avianDescription": "Whoever wielded these must have a lot of arm strength; They seem rather unwieldy.",
+  "floranDescription": "Fierce weapons! Sharp and pointy, but Floran think not very good for stabbing. Flimsy.",
+  "glitchDescription": "Intrigued. Did a fighter really use two polearms? These are just for display, but...",
+  "humanDescription": "A pair of glaives, put on display. They don't seem sharp enough for a fight, though.",
+  "hylotlDescription": "Using two long polearms seems rather ineffective to me.",
+  "novakidDescription": "Wonder what kinda fancy fighter totes these babies around!",
+  "ryophiDescription": "Some more artistic warriors use two glaives at once, using the length to cover their tail and make distance from their front. It's a rather elegant display!",
+
+  "inventoryIcon": "ryophitwinglaivesicon.png",
+  "orientations": [
+    {
+      "image": "ryophitwinglaives.png:<color>",
+      "imagePosition": [ -8, 0 ],
+      "frames": 1,
+      "animationCycle": 0.5,
+
+      "spaceScan": 0.1,
+      "anchors": [ "background" ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objectName": "enlightenedcarcass",
+  "colonyTags": [ "ryophi", "pretty" ],
+  "rarity": "Common",
+  "description": "A painting with bones protruding from the canvas.",
+  "shortdescription": "\"Enlightened Carcass\"",
+  "race": "ryophi",
+  "category": "decorative",
+  "price": 75,
+
+  "apexDescription": "A gruesome depiction of an animal with its skin removed.",
+  "avianDescription": "I suppose some believe even the dead can reach enlightenment...",
+  "floranDescription": "Mmm. Floran sad animal not real. Floran hungry now.",
+  "glitchDescription": "Contemplative. A message about how enlightenment is fruitless?",
+  "humanDescription": "The painting uses bones to make the image pop out. Intriguing.",
+  "hylotlDescription": "Inspiring. A depiction of the fruitless attempt to perfect oneself, only to die achieving it.",
+  "novakidDescription": "Woah. thinkin' this is a bit too abstract for my tastes.",
+  "ryophiDescription": "Made with fake bones - Sometimes you must work yourself to the bone to be truly inspired.",
+
+  "inventoryIcon": "enlightenedcarcassicon.png",
+  "orientations": [
+    {
+      "image": "enlightenedcarcass.png:<color>",
+      "imagePosition": [ -8, 0 ],
+      "frames": 1,
+      "animationCycle": 0.5,
+
+      "spaceScan": 0.1,
+      "anchors": [ "background" ]
+    }
+  ]
+}

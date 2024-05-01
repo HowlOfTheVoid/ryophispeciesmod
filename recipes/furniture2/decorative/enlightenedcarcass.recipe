@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 2 },
+    { "item" : "fabric", "count" :  5 },
+    { "item" : "bone", "count" :  4}
+  ],
+  "output" : {
+    "item" : "enlightenedcarcass",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "ryophi" ]
+}
