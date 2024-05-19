@@ -1,19 +1,19 @@
 {
-  "itemName" : "ryophisword",
+  "itemName" : "trainingglaive",
   "price" : 500,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A test weapon?",
-  "shortdescription" : "ryophi Sword",
+  "description" : "A polearm used in training.",
+  "shortdescription" : "Training Glaive",
   "tooltipKind" : "sword",
-  "category" : "broadsword",
+  "category" : "Polearm",
   "twoHanded" : true,
-  "itemTags" : ["weapon","melee","broadsword"],
-  "inventoryIcon" : "ryophisword.png",
+  "itemTags" : ["weapon","melee","broadsword","ryophi"],
+  "inventoryIcon" : "trainingglaive.png",
   "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
   "animationParts" : {
     "handle" : "",
-    "blade" : "ryophisword.png"
+    "blade" : "trainingglaive.png"
   },
   "animationCustom" : { },
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
@@ -23,6 +23,6 @@
     "fireTime" : 0.89,
     "baseDps" : 7
   },
-  "altAbilityType" : "downstab",
+  "altAbilityType" : "bladedsomersault",
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

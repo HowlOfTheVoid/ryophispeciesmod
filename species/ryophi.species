@@ -24,6 +24,7 @@
       { "item": "flagryophi" },
 
       // Anvil
+      { "item": "trainingglaive"},
       { "item": "ironshortsword" },
       { "item": "ironbroadsword" },
       { "item": "tungstenaxe" },
