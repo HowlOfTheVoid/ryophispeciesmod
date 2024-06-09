@@ -5,14 +5,26 @@
       "stateTypes" : {
         "risingSwoosh" : {
           "default" : "idle",
-          "states" : {
-            "idle" : {
+          "states": {
+            "idle": {
             },
-            "slash" : {
-              "frames" : 3,
-              "cycle" : 0.175,
-              "mode" : "transition",
-              "transition" : "idle"
+            "slash1": {
+              "frames": 3,
+              "cycle": 0.175,
+              "mode": "transition",
+              "transition": "slash2"
+            },
+            "slash2": {
+              "frames": 3,
+              "cycle": 0.175,
+              "mode": "transition",
+              "transition": "slash3"
+            },
+            "slash3": {
+              "frames": 3,
+              "cycle": 0.175,
+              "mode": "transition",
+              "transition": "idle"
             }
           }
         }
@@ -22,9 +34,9 @@
           "properties" : {
             "zLevel" : -1,
             "centered" : true,
-            "offset" : [0.25, -2.5],
+            "offset" : [-0.25, 2.5],
             "transformationGroups" : ["swoosh"],
-            "rotationCenter" : [0, 0]
+            "rotationCenter" : [-0.25, 2.5]
           },
 
           "partStates" : {
@@ -34,9 +46,21 @@
                   "image" : ""
                 }
               },
-              "slash" : {
+              "slash1" : {
                 "properties" : {
-                  "image" : "/items/active/weapons/melee/abilities/broadsword/bladedsomersault/somersaultslash.png:<frame>",
+                  "image" : "/items/active/weapons/melee/abilities/glaive/bladedsomersault/somersaultslash.png:<frame>",
+                  "damageArea" : [[-5, -2], [-2.5, -3], [1, -3], [4, -1.75], [5, 0.25], [5, 2.25], [4, 3.25], [0, 2.5]]
+                }
+              },
+              "slash2" : {
+                "properties" : {
+                  "image" : "/items/active/weapons/melee/abilities/glaive/bladedsomersault/somersaultslash.png:<frame>",
+                  "damageArea" : [[-5, -2], [-2.5, -3], [1, -3], [4, -1.75], [5, 0.25], [5, 2.25], [4, 3.25], [0, 2.5]]
+                }
+              },
+              "slash3" : {
+                "properties" : {
+                  "image" : "/items/active/weapons/melee/abilities/glaive/bladedsomersault/somersaultslash.png:<frame>",
                   "damageArea" : [[-5, -2], [-2.5, -3], [1, -3], [4, -1.75], [5, 0.25], [5, 2.25], [4, 3.25], [0, 2.5]]
                 }
               }
@@ -50,48 +74,66 @@
     }
   },
 
-  "ability": {
-    "name": "Bladed Somersault",
-    "type": "bladedsomersault",
-    "scripts": [ "mods/ryophispeciesmod/items/active/weapons/melee/abilities/broadsword/bladedsomersault/bladedsomersault.lua" ],
-    "class": "BladedSomersault",
+  "ability" : {
+    "name" : "Bladed Somersault",
+    "type" : "bladedsomersault",
+    "scripts" : ["/items/active/weapons/melee/abilities/glaive/bladedsomersault/bladedsomersault.lua"],
+    "class" : "BladedSomersault",
 
-    "energyUsage": 60.0,
-    "cooldownTime": 1.0,
+    "energyUsage" : 60.0,
+    "cooldownTime" : 1.0,
 
-    "dashSpeed": 75,
-    "dashControlForce": 1600,
+    "dashSpeed" : 75,
+    "dashControlForce" : 1600,
 
-    "damageConfig": {
-      "damageSourceKind": "spear",
-      "baseDamage": 6,
-      "knockback": [ 0, 50 ],
-      "timeout": 0.3,
-      "timeoutGroup": "alt"
+    "damageConfig" : {
+      "damageSourceKind" : "broadsword",
+      "baseDamage" : 6,
+      "knockback" : [0, 50],
+      "timeout" : 0.3,
+      "timeoutGroup" : "alt"
     },
 
     "stances": {
       "windup": {
         "duration": 0.25,
-        "armRotation": -90,
-        "weaponRotation": -170,
+        "armRotation": 100,
+        "weaponRotation": 20,
         "twoHanded": true,
 
         "allowRotate": false,
         "allowFlip": false
       },
-      "slash": {
+      "slash1": {
         "duration": 0.175,
-        "armRotation": 45,
-        "weaponRotation": -125,
+        "armRotation": -20,
+        "weaponRotation": -20,
         "twoHanded": true,
 
         "allowRotate": false,
         "allowFlip": false
       },
-      "freeze": {
+      "slash2": {
+        "duration": 0.175,
+        "armRotation": -140,
+        "weaponRotation": -20,
+        "twoHanded": true,
+
+        "allowRotate": false,
+        "allowFlip": false
+      },
+      "slash3": {
+        "duration": 0.175,
+        "armRotation": 100,
+        "weaponRotation": -20,
+        "twoHanded": true,
+
+        "allowRotate": false,
+        "allowFlip": false
+      },
+      "drift": {
         "duration": 0.1,
-        "armRotation": 45,
+        "armRotation": -45,
         "weaponRotation": -125,
         "twoHanded": true,
 

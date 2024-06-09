@@ -1,0 +1,6 @@
+[
+	{ "op" : "add",
+		"path" : "/bladedsomersault",
+		"value" : "/items/active/weapons/melee/abilities/glaive/bladedsomersault/bladedsomersault.weaponability"
+	}
+]
